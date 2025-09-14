@@ -1,0 +1,3 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="acestream1" tvg-name="Ace Canal" tvg-logo="" group-title="Deportes",Ace Canal
+http://192.168.1.22:6878/ace/getstream?id=c9321006921967d6258df6945f1d598a5c0cbf1e
