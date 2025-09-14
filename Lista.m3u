@@ -1,7 +1,7 @@
 #EXTM3U
-#EXTINF:-1, M+ LALIGA FHD --> NEW ERA
-192.168.1.22/ace/getstream?id=af468a318ad209b29a042a9080b519c6b40cec79
-#EXTINF:-1, M+ LALIGA FHD --> ELCANO
-192.168.1.22/ace/getstream?id=c9321006921967d6258df6945f1d598a5c0cbf1e
-#EXTINF:-1, M+ LALIGA 2 FHD --> NEW ERA VI
-192.168.1.22/ace/getstream?id=911ad127726234b97658498a8b790fdd7516541d
+#EXTINF:-1 tvg-id="MPlusLaLigaFHDNewEra" tvg-name="M+ LALIGA FHD --> NEW ERA" group-title="M+ LALIGA",M+ LALIGA FHD --> NEW ERA
+http://192.168.1.22/ace/getstream?id=af468a318ad209b29a042a9080b519c6b40cec79
+#EXTINF:-1 tvg-id="MPlusLaLigaFHDElcano" tvg-name="M+ LALIGA FHD --> ELCANO" group-title="M+ LALIGA",M+ LALIGA FHD --> ELCANO
+http://192.168.1.22/ace/getstream?id=c9321006921967d6258df6945f1d598a5c0cbf1e
+#EXTINF:-1 tvg-id="MPlusLaLiga2FHDNewEraVI" tvg-name="M+ LALIGA 2 FHD --> NEW ERA VI" group-title="M+ LALIGA 2",M+ LALIGA 2 FHD --> NEW ERA VI
+http://192.168.1.22/ace/getstream?id=911ad127726234b97658498a8b790fdd7516541d
